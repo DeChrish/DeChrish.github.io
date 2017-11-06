@@ -9,14 +9,14 @@ body {
 
   h1 {
     color:#cc3300;
-    font-size: 40px;
+    font-size: large;
     font-weight: normal;
     margin-bottom: 0;
   }
 
   h2 {
     color: white;
-    font-size: 18px;
+    font-size: x-small;
     margin-top: 0;
   }
 
@@ -37,6 +37,7 @@ body {
 
   .bio {
     color: white;
+    font-size: small;
   }
 
   .hr {
